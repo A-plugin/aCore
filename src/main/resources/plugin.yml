@@ -1,0 +1,8 @@
+name: aCore
+version: '${version}'
+main: org.apo.teamcore.Team_Core
+api-version: '1.20'
+commands:
+  core:
+    description: 코어
+    permission: Core.core
